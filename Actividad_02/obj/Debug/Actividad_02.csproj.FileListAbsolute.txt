@@ -1,0 +1,13 @@
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\bin\Debug\Actividad_02.exe.config
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\bin\Debug\Actividad_02.exe
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\bin\Debug\Actividad_02.pdb
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.csproj.AssemblyReference.cache
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.Form1.resources
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.Properties.Resources.resources
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.csproj.GenerateResource.cache
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.csproj.CoreCompileInputs.cache
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.exe
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.pdb
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.Form2.resources
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.Form3.resources
+C:\Users\Atenea\source\repos\Actividad_02\Actividad_02\obj\Debug\Actividad_02.Form4.resources
